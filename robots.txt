@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iemeibohra.kim-retires.com/sitemap.xml
